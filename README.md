@@ -55,20 +55,6 @@ After you're finished please remove all the comments and instructions!
 > SQL
 
 <details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
 <summary>Database</summary>
   <ul>
     <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
@@ -106,11 +92,11 @@ Example command:
 
 ### Setup
 Clone the repository
-git clone  https://github.com/linushaddai99/Enumerable.git
+git clone  https://github.com/bhskr44/enumerable-ruby.git
 
 ### Navigate to the folder
 
-cd shaddai-soe-database
+cd enumerable-ruby
 
 
 
@@ -143,9 +129,11 @@ Twitter: @linushaddai99
 LinkedIn: @linushaddai99
 
 
-👤 Soe Sandar Win
-GitHub: @soesandarwin2201
-LinkedIn: LinkedIn
+👤 **Bhaskar Ranjan Bora**
+
+- GitHub: [@bhskr44](https://github.com/bhskr44)
+- Twitter: [@bhskr44](https://twitter.com/bhskr44)
+- LinkedIn: [@bhskr44](https://linkedin.com/in/bhskr44)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
